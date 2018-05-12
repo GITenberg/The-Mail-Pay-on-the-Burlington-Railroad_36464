@@ -1,0 +1,28 @@
+_repo: The-Mail-Pay-on-the-Burlington-Railroad_36464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Chicago, Burlington & Quincy Railroad Company
+    alias: Chicago, Burlington, and Quincy Railroad Company
+    gutenberg_agent_id: '38287'
+    url: http://www.gutenberg.org/2009/agents/38287
+description: ''
+gutenberg_issued: '2011-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Chicago, Burlington & Quincy Railroad Company'
+- !lcsh 'Railway mail service -- United States'
+title: "The Mail Pay on the Burlington Railroad\r\nStatements of Car Space and All\
+  \ Facilities Furnished for the Government Mails and for Express and Passengers in\
+  \ All Passenger Trains on the Chicago, Burlington and Quincy Railroad"
+url: http://www.gutenberg.org/ebooks/36464
